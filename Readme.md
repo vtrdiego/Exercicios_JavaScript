@@ -1,0 +1,1 @@
+Repositório contendo listas de exercícios variados utilizando JavaScript.
